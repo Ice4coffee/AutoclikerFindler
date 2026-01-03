@@ -1,4 +1,4 @@
-Write-Host === AgeraOPvP  AutoClicker Scan === -ForegroundColor Cyan
+Write-Host === IceF4ry  AutoClicker Scan === -ForegroundColor Cyan
 
 $AutoClickers = @(
  autoclicker,opautoclicker,fastclick,free mouse clicker,
